@@ -1,0 +1,31 @@
+{
+  "name": "view-controller",
+  "version": "1.0.0",
+  "description": "A site similarto wordpress app where devteam can publish their blog posts and collaborate with other developers. This app uses the MVC paradigm, Handlebars.js, Sequelize, express-session.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koneruteja/View-Controller.git"
+  },
+  "author": "koneru.dharmateja1@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koneruteja/View-Controller/issues"
+  },
+  "homepage": "https://github.com/koneruteja/View-Controller#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "connect-session-sequelize": "^7.1.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "express-session": "^1.17.1",
+    "inquirer": "^7.3.3",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.4.0"
+  }
+}
