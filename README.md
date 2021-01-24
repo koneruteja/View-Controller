@@ -1,4 +1,4 @@
-# Tech This Out
+# View-Controller
 A site similarto wordpress app where devteam can publish their blog posts and collaborate with other developers.
 This app uses the MVC paradigm, Handlebars.js, Sequelize, express-session.
 
