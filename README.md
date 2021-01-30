@@ -21,3 +21,5 @@ Run the following commands in your terminal/command-line to initialize database:
 
 Open your browser to http://localhost:3001/.
 
+## Repo
+repo url - https://github.com/koneruteja/View-Controller
